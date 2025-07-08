@@ -16,19 +16,17 @@
 
 <br clear="both">
 
-<img align="right" height="294" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xxaWk4emw2MGltd2s5MjludGptMzMzNnh5MGxxcnVjNGxpcHY3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UsVX1QDSLlCjw8PpJS/giphy.gif"  />
-
-###
+<img align="right" height="275" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xxaWk4emw2MGltd2s5MjludGptMzMzNnh5MGxxcnVjNGxpcHY3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UsVX1QDSLlCjw8PpJS/giphy.gif"  />
 
 <div align="left">
   <a href="https://open.spotify.com/user/317tmziw2kwsmf5rvrctbzhchoaq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317tmziw2kwsmf5rvrctbzhchoaq&count=5&unique=true" alt="Spotify recently played"  />
+    <img width="335" src="https://spotify-recently-played-readme.vercel.app/api?user=317tmziw2kwsmf5rvrctbzhchoaq&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h3 align="left">🛠 Language and tools</h3>
 
