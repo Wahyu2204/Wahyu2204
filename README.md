@@ -30,10 +30,12 @@
 
 ###
 
+<h3 align="left">🎶 My Playlist Music</h3>
+
+###
+
 <div align="center">
-  <a href="https://open.spotify.com/user/wahyuwibowo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wahyuwibowo&count=5" alt="Spotify recently played"  />
-  </a>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1eO4DCuTwccdi4FiEuD43M?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 ###
@@ -83,16 +85,14 @@
 
 ###
 
+<h3 align="left">🎮 Play Game With Me</h3>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyu2204/Wahyu2204/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyu2204/Wahyu2204/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wahyu2204/Wahyu2204/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Wahyu2204&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
