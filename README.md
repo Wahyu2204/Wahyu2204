@@ -1,24 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="left">hey 👋 what's up</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wahyu2204.Wahyu2204&"  />
-</div>
-
-###
-
-<h1 align="center">hey 👋 what's up</h1>
+<img align="right" height="335" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bW5kZHhpemRjYnp3NW84enpxZzZiZTMydmdxcWZ2aDZ0ZGJsMHNoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZkK3fwlMk8FFFow8Eq/giphy.gif"  />
 
 ###
 
@@ -30,17 +14,15 @@
 
 ###
 
-<h3 align="left">🎶 My Playlist Music</h3>
-
-###
-
-<div align="start">
+<div align="left">
   <a href="https://open.spotify.com/user/317tmziw2kwsmf5rvrctbzhchoaq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317tmziw2kwsmf5rvrctbzhchoaq&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317tmziw2kwsmf5rvrctbzhchoaq&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -74,20 +56,16 @@
 
 ###
 
-<div align="start">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Wahyu2204&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="start">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Wahyu2204&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wahyu2204&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<h3 align="left">🎮 Play Game With Me</h3>
 
 ###
 
@@ -96,5 +74,23 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyu2204/Wahyu2204/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wahyu2204/Wahyu2204/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Wahyu2204/Wahyu2204/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wahyu2204.Wahyu2204&"  />
+</div>
 
 ###
