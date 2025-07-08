@@ -35,12 +35,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/embed/playlist/1eO4DCuTwccdi4FiEuD43M?utm_source=generator&theme=0">
-    <img 
-      src="https://spotify-readme.vercel.app/api?id=1eO4DCuTwccdi4FiEuD43M" 
-      alt="Link ke Playlist Spotify saya" 
-      width="500" 
-    />
+  <a href="https://open.spotify.com/user/317tmziw2kwsmf5rvrctbzhchoaq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317tmziw2kwsmf5rvrctbzhchoaq&count=5" alt="Spotify recently played" />
   </a>
 </div>
 
