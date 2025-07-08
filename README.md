@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="335" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bW5kZHhpemRjYnp3NW84enpxZzZiZTMydmdxcWZ2aDZ0ZGJsMHNoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZkK3fwlMk8FFFow8Eq/giphy.gif"  />
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bW5kZHhpemRjYnp3NW84enpxZzZiZTMydmdxcWZ2aDZ0ZGJsMHNoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZkK3fwlMk8FFFow8Eq/giphy.gif"  />
 
 ###
 
@@ -11,6 +11,12 @@
 ###
 
 <p align="left">I'm Wahyu Andrianto Wibowo from Indonesia<br><br>- 🔭 I’m student as STT Terpadu Nurul Fikri<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I Traveling</p>
+
+###
+
+<br clear="both">
+
+<img align="right" height="294" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xxaWk4emw2MGltd2s5MjludGptMzMzNnh5MGxxcnVjNGxpcHY3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UsVX1QDSLlCjw8PpJS/giphy.gif"  />
 
 ###
 
