@@ -35,7 +35,13 @@
 ###
 
 <div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1eO4DCuTwccdi4FiEuD43M?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/embed/playlist/1eO4DCuTwccdi4FiEuD43M?utm_source=generator&theme=0">
+    <img 
+      src="https://spotify-readme.vercel.app/api?id=1eO4DCuTwccdi4FiEuD43M" 
+      alt="Link ke Playlist Spotify saya" 
+      width="500" 
+    />
+  </a>
 </div>
 
 ###
